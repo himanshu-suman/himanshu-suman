@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Himanshu Suman.
 
-I am a final year student, studying Computer Science from Indore. I am a Data Science enthusiast and building projects using the latest machine learning techniques. I have published a research paper describing the latest machine learning approaches to improve the recruitment process. Also, I frequently participate in hackathons. 
+I am a final year student, studying Computer Science from Indore. I am a Data Science enthusiast and building projects using the latest machine learning techniques. I have published a [research paper](http://doi.one/10.1729/Journal.23815) describing the latest machine learning approaches to improve the recruitment process. Also, I frequently participate in hackathons. 
 
 - 🔭 I’m currently working on GANs (Generative Adversarial Networks).
 - 🌱 I’m currently learning more enhanced NLP techniques and building several projects.
