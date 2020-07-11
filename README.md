@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Himanshu Suman.
 
+[![HitCount](http://hits.dwyl.com/HimanshuSuman7/HimanshuSuman7.svg)](http://hits.dwyl.com/HimanshuSuman7/HimanshuSuman7)
+
 I am a final year student, studying Computer Science from Indore. I am a Data Science enthusiast and building projects using the latest machine learning techniques. I have published a [research paper](http://doi.one/10.1729/Journal.23815) describing the latest machine learning approaches to improve the recruitment process. Also, I frequently participate in hackathons. 
 
 - 🔭 I’m currently working on GANs (Generative Adversarial Networks).
