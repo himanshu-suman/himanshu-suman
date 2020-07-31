@@ -7,7 +7,7 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 - 🔭 I’m currently working on GANs (Generative Adversarial Networks).
 - 🌱 I’m currently learning more enhanced NLP techniques and building several projects.
 - 🤔 I’m constantly looking for opportunities in Software Development and Data Science.
-- 💬 Ask me about **Data Science, Big Data, Apache Spark, Python, MERN Developement, AWS, etc.**.
+- 💬 Ask me about **Data Science, Big Data, Apache Spark, Python, MERN Stack, AWS, etc.**.
 - 📫 How to reach me: [Mail](mailto:himanshu.suman1010@gmail.com), [@MarvellousCR7](https://twitter.com/MarvellousCR7).
 - ⚡ Do star my work if you find it interesting, it helps me stay on track and be motivated.
 
