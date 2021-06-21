@@ -1,7 +1,5 @@
 ### 👋 Hi, I'm Himanshu.
 
-[![HitCount](http://hits.dwyl.com/HimanshuSuman7/HimanshuSuman7.svg)](http://hits.dwyl.com/HimanshuSuman7/HimanshuSuman7)
-
 I am a final year student, studying Computer Science from Indore. I am a Software Engineer and love building projects. I have published a [research paper](http://doi.one/10.1729/Journal.23815) describing the latest machine learning approaches to improve the recruitment process. Also, I frequently participate in hackathons. 
 
 - 🌱 I’m currently learning more enhanced NLP techniques and building several projects.
